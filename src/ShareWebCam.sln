@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual C# Express 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareWebCam", "ShareWebCam\ShareWebCam.csproj", "{99F48853-30D4-4D86-9F53-BD6C088A6565}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareWebCam.Web", "ShareWebCam.Web\ShareWebCam.Web.csproj", "{DB6C8431-88E9-4806-A23C-7B2824445C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShareWebCam.Common", "ShareWebCam.Common\ShareWebCam.Common.csproj", "{E24EED2C-465B-4FAB-8EE2-644667C5C69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99F48853-30D4-4D86-9F53-BD6C088A6565}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99F48853-30D4-4D86-9F53-BD6C088A6565}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99F48853-30D4-4D86-9F53-BD6C088A6565}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99F48853-30D4-4D86-9F53-BD6C088A6565}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB6C8431-88E9-4806-A23C-7B2824445C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6C8431-88E9-4806-A23C-7B2824445C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6C8431-88E9-4806-A23C-7B2824445C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6C8431-88E9-4806-A23C-7B2824445C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E24EED2C-465B-4FAB-8EE2-644667C5C69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24EED2C-465B-4FAB-8EE2-644667C5C69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24EED2C-465B-4FAB-8EE2-644667C5C69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24EED2C-465B-4FAB-8EE2-644667C5C69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
