@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ShareWebCam")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Home")]
+[assembly: AssemblyCompany("Fedorchenko")]
 [assembly: AssemblyProduct("ShareWebCam")]
-[assembly: AssemblyCopyright("Copyright © Home 2007")]
+[assembly: AssemblyCopyright("Copyright © V.Fedorchenko 2007")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
